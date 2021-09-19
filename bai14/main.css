@@ -1,0 +1,12 @@
+*{
+	--c: rgb(87, 89, 90); 
+}
+h1{
+	color: var(--c);
+}
+h2{
+	color: var(--c);
+}
+h3{
+	color: var(--c);
+}

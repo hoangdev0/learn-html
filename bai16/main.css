@@ -1,0 +1,11 @@
+.box{
+	width: calc(80% + 20%);
+	height: 130px;
+	background-color: rgb(116, 116, 116);
+}
+.box::after{
+	content: attr(data);
+}
+a::after{
+	content:"(" attr(href) ")";
+}

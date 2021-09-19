@@ -1,0 +1,14 @@
+/* h1#head.heading{
+	color:red;
+}
+#head.heading{
+	color: blue;
+} */
+
+html{
+	color:blue !important;
+}
+
+li{
+	color:red;
+}
